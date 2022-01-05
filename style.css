@@ -1,0 +1,20 @@
+h1{
+    font-family: 'Dancing Script', cursive;
+font-family: 'The Nautigal', cursive;
+color: rgb(185, 112, 127);
+font-size: 80px;
+}
+h2{
+    color: olive;
+    font-size: 40px;
+}
+p{
+    color: rgb(60, 94, 197);
+    font-size: 20px;
+}
+section{
+    display: flex;
+}
+.one{
+    width: 50%;
+}
